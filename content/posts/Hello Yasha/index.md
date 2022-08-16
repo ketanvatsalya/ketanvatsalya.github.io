@@ -1,1 +1,0 @@
-cover = "/path/to/absolute/img.jpg"
