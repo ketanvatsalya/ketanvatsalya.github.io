@@ -1,6 +1,6 @@
 baseURL = 'https://ketanvatsalya.github.io'
 languageCode = 'en-us'
-title = 'Hello Yasha!'
+title = 'Hello There!'
 theme = "hello-friend"
 
 [params]
@@ -48,7 +48,7 @@ theme = "hello-friend"
     #  logoHomeLink = "/"
     # or
     #
-    path = "/img/Yasha.jpeg"
+    path = "/img/Mandark.jpeg"
     alt = "Here I stand!"
 
     [languages.en.menu]
